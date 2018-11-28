@@ -1,0 +1,11 @@
+= License =
+
+Images such as custom images included in this theme package are created by myself and licensed under GNU GPL.
+
+
+
+Columnist WordPress theme, Copyright (C) 2013 WPMOLE
+Columnist WordPress theme is licensed under the GPL.
+
+
+
